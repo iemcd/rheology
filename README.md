@@ -18,12 +18,15 @@ spectrumcalc is a perl script that takes a discrete rheological spectrum and a l
 
 References
 ===
-[1] Inferring meaningful relaxation spectra from experimental data
+[1]Inferring meaningful relaxation spectra from experimental data  
 McDougall, Ian and Orbey, Nese and Dealy, John M., Journal of Rheology (1978-present), 58, 779-797 (2014), DOI:[http://dx.doi.org/10.1122/1.4870967](http://dx.doi.org/10.1122/1.4870967)
-[2] Determination of the relaxation spectrum by a regularization method
+
+[2] Determination of the relaxation spectrum by a regularization method  
 J. Honerkamp and J. Weese, Macromolecules, 1989, 22 (11), pp 4372-4377, DOI:[http://dx.doi.org/10.1021/ma00201a036](http://dx.doi.org/10.1021/ma00201a036)
-[3] Simple moving-average formulae for the direct recovery of the relaxation spectrum
+
+[3] Simple moving-average formulae for the direct recovery of the relaxation spectrum  
 Anderssen, R. S. and Davies, A. R., Journal of Rheology (1978-present), 45, 1-27 (2001), DOI:[http://dx.doi.org/10.1122/1.1332787](http://dx.doi.org/10.1122/1.1332787)
-[4] Viscoelastic Properties of Polymers, 2nd ed.
+
+[4] Viscoelastic Properties of Polymers, 2nd ed.  
 J. D. Ferry; Wiley: New York, 1970 (current edition is 3rd: [see here](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471048941.html))
 

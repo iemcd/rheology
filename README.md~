@@ -10,7 +10,7 @@ ToDo
 * The RNG might not produce the same error between runs. It's unclear if this is desirable anyway, but I should at least be clear about it.
 * Currently I integrate the spectrum numerically, but it can in fact be done exactly and I don't know why I didn't do this.
 * More realistic error might be generated according to the methods in section D of Anderssen and Davies [3].
-* I dislike Matlab, but I may need to make some changes to make it an idiomatic octave script.
+* 
 
 spectrumcalc
 ===
